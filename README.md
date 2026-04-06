@@ -33,7 +33,7 @@ Remove author from general WordPress and author meta from AMP, and removed Store
 
 1. Go to 'Plugins' in the Admin menu
 2. Click on the button 'Add new' 
-3. Search for 'simply-hide-author' and click 'Install Now' or click on the `upload` link to upload 'author-ghost-visibility-pro.zip'
+3. Search for 'author-ghost-visibility-pro' and click 'Install Now' or click on the `upload` link to upload 'author-ghost-visibility-pro.zip'
 4. Click on 'Activate plugin' 
 
 
