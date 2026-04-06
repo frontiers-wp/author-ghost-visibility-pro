@@ -50,9 +50,9 @@ Yes, o.a. with Astra Themes , Genesis Themes, Twenty Twelve
 
 == Screenshots ==
 
-1. banner-772-250-simply-hide-author.png
-2. wp-simply-hide-author-icon.png
-3. wp-simply-hide-author.svg
+1. 772-250.png
+2. icon.png
+3. icon.svg
 
 == Changelog ==
 
